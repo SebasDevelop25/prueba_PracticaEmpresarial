@@ -7,5 +7,5 @@ CREATE TABLE IF NOT EXISTS productos (
 )
 
 INSERT INTO productos (nombre, precio, stock, categoria) VALUES
-('Teclado mecanico', 100000, 10, 'Electronics'),
-('Mouse inalambrico', 50000, 25, 'Electronics'),
+('Teclado mecanico', 100000, 10, 'Electronico'),
+('Mouse inalambrico', 50000, 25, 'Electronico'),
