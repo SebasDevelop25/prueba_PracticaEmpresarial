@@ -1,0 +1,5 @@
+# Archivos compilados de Java
+*.class
+
+# Archivos de base de datos (si no quieres versionarla)
+*.db
